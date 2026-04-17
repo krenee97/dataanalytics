@@ -1,0 +1,3 @@
+/*
+Sakila is a database used to collect information about any and everything for use by everyone.
+*/
