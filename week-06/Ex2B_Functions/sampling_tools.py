@@ -17,5 +17,5 @@ random.shuffle(products)
 print(f"Randonized product list: {products}")
 
 #d) Simulated daily transaction count between 50 and 300
-transaction_count = random.randiant(50, 300)
+transaction_count = random.randint(50, 300)
 print(f"Daily transaction count: {transaction_count}")
