@@ -16,4 +16,4 @@ region = input("region: East")
 print("Enter daily sales for 7 days:")
 sales = [float(input(f"day{1+1}:$")) for i in range(7)]
 
-mean, median, mode
+mean, median, mode = analyze_sales(analyst, region, sales)
